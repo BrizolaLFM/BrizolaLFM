@@ -1,4 +1,4 @@
-### Hi 👋, I'm Luiz Fernando
+### Eai 👋, Sou Luiz Fernando
 
 - 🔭 Atualmente trabalho em um escritório
 - 🌱 Estudando JavaScript
