@@ -1,7 +1,7 @@
 ### Eai 👋, Sou Luiz Fernando
 
 - 🔭 Atualmente trabalho em um escritório
-- 🌱 Estudando JavaScript
+- 🌱 Estudando: Back & Front
 - 📫 Email: luizfernandobrizola037@gmail.com
 - ⚡ Sobre mim: Iniciei no mundo da programação não tem muito tempo, mas procuro aprender e melhorar cada dia mais.
 
